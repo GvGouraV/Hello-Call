@@ -1,0 +1,3 @@
+export const CLICK="CLICK"
+export const EDIT_CUSTOMER="EDIT_CUSTOMER"
+export const CHANGE_EDIT_CUST="CHANGE_EDIT_CUST"
